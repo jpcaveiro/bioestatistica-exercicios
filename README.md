@@ -1,6 +1,6 @@
 # Bioestatistica
 
-Documentação online (em construção):
+Repositório auxiliar da documentação online acessível em:
 
 * http://sweet.ua.pt/pedrocruz/bioestatistica/
 
