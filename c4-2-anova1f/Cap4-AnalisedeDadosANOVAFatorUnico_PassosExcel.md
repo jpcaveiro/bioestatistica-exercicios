@@ -1,6 +1,6 @@
 Como realizar uma análise de dados em EXCEL, de acordo com a **ANOVA Fator Único**, para o seguinte Exemplo:
 
-![image-20210505121023500](img\image-20210505121023500.png)
+![image-20210505121023500](img/image-20210505121023500.png)
 
 1. Separador Dados, Opção "Análise de Dados".
    
