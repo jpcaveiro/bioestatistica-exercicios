@@ -1,6 +1,6 @@
 ---
 title: "Tabelas de contingência"
-tags: ["animals", "Chicago", "zoos"]
+tags: ["independência", "contingência"]
 ---
 
 ![image](https://user-images.githubusercontent.com/11158247/174093113-611f9574-11ca-4ef2-8b94-be5c90c29bb5.png)
