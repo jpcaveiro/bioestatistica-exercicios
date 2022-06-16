@@ -7,7 +7,7 @@ tags: ["animals", "Chicago", "zoos"]
 
 **(questão código 10)** 
 
-O que representa o valor 48 na primeira célula?
+O que representa o valor 32 na primeira célula?
 
 **(questão código 20)** 
 
